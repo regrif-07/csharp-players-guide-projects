@@ -6,4 +6,4 @@ Some solutions may not meet the set conditions a little, but in general, all the
 Each challenge has its own corresponding project. 
 There is also a separate Utility project containing classes used in many projects.
 
-During the development of these solutions, I already had experience programming and working with C#, so some solutions may seem more complicated than originally planned by the author of the book.
+During the development of these solutions, I already had experience programming with C#, so some solutions may seem more complicated than originally planned by the author of the book.
